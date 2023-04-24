@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{B582BB7A-CA6A-4BE6-BAA9-D8762D6CFD81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliit.MTIT.student", "Sliit.MTIT.student\Sliit.MTIT.student.csproj", "{A1F11C38-2EF4-4F73-AF31-74A39A5D05BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F11C38-2EF4-4F73-AF31-74A39A5D05BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F11C38-2EF4-4F73-AF31-74A39A5D05BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F11C38-2EF4-4F73-AF31-74A39A5D05BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F11C38-2EF4-4F73-AF31-74A39A5D05BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1F11C38-2EF4-4F73-AF31-74A39A5D05BF} = {B582BB7A-CA6A-4BE6-BAA9-D8762D6CFD81}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2794383-D425-4BA1-A267-06EEC7A95DF7}
+	EndGlobalSection
+EndGlobal

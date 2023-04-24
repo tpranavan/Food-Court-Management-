@@ -1,0 +1,14 @@
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\bin\Debug\netcoreapp2.1\Sliit.MTIT.student.deps.json
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\bin\Debug\netcoreapp2.1\Sliit.MTIT.student.runtimeconfig.json
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\bin\Debug\netcoreapp2.1\Sliit.MTIT.student.runtimeconfig.dev.json
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\bin\Debug\netcoreapp2.1\Sliit.MTIT.student.dll
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\obj\Debug\netcoreapp2.1\Sliit.MTIT.student.csprojAssemblyReference.cache
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\obj\Debug\netcoreapp2.1\Sliit.MTIT.student.csproj.CoreCompileInputs.cache
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\obj\Debug\netcoreapp2.1\Sliit.MTIT.student.RazorAssemblyInfo.cache
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\obj\Debug\netcoreapp2.1\Sliit.MTIT.student.RazorAssemblyInfo.cs
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\obj\Debug\netcoreapp2.1\Sliit.MTIT.student.AssemblyInfoInputs.cache
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\obj\Debug\netcoreapp2.1\Sliit.MTIT.student.AssemblyInfo.cs
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\obj\Debug\netcoreapp2.1\Sliit.MTIT.student.RazorTargetAssemblyInfo.cache
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\bin\Debug\netcoreapp2.1\Sliit.MTIT.student.pdb
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\obj\Debug\netcoreapp2.1\Sliit.MTIT.student.dll
+C:\Users\it20066802\Desktop\it20066802\Sliit.MTIT\Sliit.MTIT.student\obj\Debug\netcoreapp2.1\Sliit.MTIT.student.pdb
